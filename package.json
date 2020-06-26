@@ -1,0 +1,15 @@
+{
+  "name": "kubernetes-node-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "apicache": "^1.5.3",
+    "axios": "^0.18.1",
+    "cloudcms-server": "*",
+    "express": "^4.16.4"
+  }
+}
